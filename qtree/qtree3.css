@@ -1,0 +1,62 @@
+.box1 h1{
+    color: #aecdc9;
+    
+    font-size: 4rem;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1 img{
+    height: 400px;
+    width: fi;
+    width: 700px;
+    margin-top: 40px;
+}
+.box1{
+    
+    border:0px solid black;
+}
+.box1 h3{
+    color: #aecdc9 ;
+}
+.box2{
+   border:0px solid black;
+   width:600px;
+   height: 300px; 
+   margin-left: 50px;
+   margin-top: 50px;
+}
+.con{
+    display: flex;
+    
+    margin-top: 30px;
+}
+.box2 h3,p{
+    padding:10px;
+}
+.box2 h3{
+    color: #aecdc9 ;
+}
+.box2 button{
+    margin-left: 50px;
+    background-color:#aecdc9 ;
+    width: 150px;
+    height: 30px;
+}
+.box3{
+    display: flex;
+   position: absolute;
+   left: 750px;
+   bottom: 100px;
+}
+.box3-content h3{
+color: #aecdc9 ;
+
+}
+.box3-content{
+    height: 300px; 
+    width: 300px
+    text-align: justify;
+
+}

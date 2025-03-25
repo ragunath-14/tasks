@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+.wh{
+  margin-top: 60px;
+    margin-left: 60px; 
+    width: 300px;
+    height: 500px;
+}
+.wh h3{
+  padding-top: 10px;
+  color: blue;
+}
+.wh p{
+  padding-top: 10px;
+}
